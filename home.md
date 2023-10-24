@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-10-15T17:01:43.315Z
+date: 2023-10-24T12:59:26.798Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -26,7 +26,7 @@ Welcome to the Aelorian Global Archive Initiative, Operated by the Ministry of H
 
 
 
-# External Links (Dont work yet)
+# External Links
 
 - [Immortal.ink *View our other projects*](https://immortal.ink)
 - [Ryuuko Comic*Bird go chirp*](https://comic.immortal.ink/ryuuko/latest)
