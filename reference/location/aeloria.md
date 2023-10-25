@@ -2,7 +2,7 @@
 title: Aeloria
 description: Aelorian home planet
 published: true
-date: 2023-10-25T22:22:57.834Z
+date: 2023-10-25T22:44:22.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T21:57:01.730Z
@@ -56,7 +56,7 @@ Sodium is involved in taste perception in many organisms. Aelorian species have 
 
 # Planetary Conditions
 
-Aeloria boasts a stable climate, characterized by mild seasonal temperature variations owing to its low axial tilt. Large equatorial oceans facilitate consistent rainfall along the equator, while polar caps grace the distant opposite ends from the planet's axis. The planet has entered a period of tectonic inactivity, with the cessation of tectonic movement around 2.4 million years ago. Notably, the Aelorian bird race has inhabited Aeloria for roughly 800,000 years.
+Aeloria boasts a stable climate, characterized by mild seasonal temperature variations owing to its low axial tilt. Large equatorial oceans facilitate consistent rainfall along the equator, while polar caps grace the distant opposite ends from the planet's axis. The planet has entered a seemingly permanant period of tectonic inactivity, with the cessation of tectonic movement around 2.4 million years ago. Notably, the Aelorian bird race has inhabited Aeloria for roughly 800,000 years.
 
 Spanning a radius of approximately 3167.04 miles, Aeloria's geological history is marked by a unique development. Early volcanic activity played a pivotal role in cooling the planet's surface and initiating a process that generated high-pressure conditions within the planet's core. This elevated pressure facilitated the formation of a distinctive crystalline layer, primarily composed of carbon-rich silicate materials. Over time, this crystalline layer expanded and eventually pushed outward, forming the iconic quartz silicate mountain ranges that define Aeloria's landscape.
 
