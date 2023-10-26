@@ -2,7 +2,7 @@
 title: Eira Ryyu
 description: Director of the Ministry of Heritage
 published: true
-date: 2023-10-15T01:38:23.479Z
+date: 2023-10-26T18:04:50.862Z
 tags: ministry of heritage, aelorian
 editor: markdown
 dateCreated: 2023-09-20T02:59:39.966Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-20T02:59:39.966Z
 *"No one is written in stone. People can change — so be the change." -Eira Ryyu, Director of Heritage*
 
 # Bio
-Eira Ryyu is an [Aelorian](/reference/species/aelorian) and the current Director of Heritage for the [Ministry of Heritage.](reference/species/aelorian/government) 
+Eira Ryyu is an [Aelorian](/reference/species/aelorian) and the current Director of Heritage for the [Ministry of Heritage.](/reference/species/aelorian/government/heritage) 
 ## Birthplace and Origins
 Originally born male under the name Erion Invisus, she was born and raised in the region of `[LOCATION TBD]`, in the town of `[TOWN TBD]`, which is known for its great imports and exports of all things Aelorian. Due to this, the town is also known for its cultural importance.
 
