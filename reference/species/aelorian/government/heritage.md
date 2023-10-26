@@ -2,7 +2,7 @@
 title: Ministry of Heritage
 description: 
 published: true
-date: 2023-10-26T18:06:06.208Z
+date: 2023-10-26T18:06:32.087Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-12T00:07:55.229Z
@@ -18,6 +18,6 @@ Beyond science and the arts, Heritage is also responsible for protecting religio
 
 The Ministry administers the Archives, preserving historical records, ancient manuscripts, and important artifacts, as well as modern military, scientific, and financial records, and their safekeeping and secure access.
 
-Heritage also plays a role in promoting tourism, inviting visitors to explore Aeloria's cultural heritage through guided tours and cultural exchanges. This fosters cross-cultural understanding and appreciation.
+Heritage also plays a role in promoting tourism, inviting visitors to explore Aeloria's cultural heritage through guided tours and cultural exchanges. This fosters cross-cultural understanding and appreciation, as well as contributing slightly to Aelorias overall economic presence.
 
 By managing education and safeguarding knowledge, the Ministry of Heritage remains dedicated to preserving Aeloria's cultural and intellectual wealth, ensuring that it endures and evolves over time.
