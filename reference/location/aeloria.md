@@ -2,7 +2,7 @@
 title: Aeloria
 description: Aelorian home planet
 published: true
-date: 2023-10-26T18:58:17.013Z
+date: 2023-10-26T19:00:00.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T21:57:01.730Z
@@ -63,17 +63,17 @@ Spanning a radius of approximately 3167.04 miles, Aeloria's geological history i
 Aeloria is a celestial anomaly, orbiting an exceptionally radiant and tranquil red dwarf star, which emits approximately 4.2306 × 10^26 watts of luminosity. This stellar companion, characterized by its brightness and serene nature, is a rarity in the cosmos. Moreover, Aeloria boasts a set of planetary rings, an astronomical feature that emerged roughly 80,000 years ago. These rings originated from the remnants of an ancient civilization's protective shield, which disintegrated due to a series of colossal meteor impacts. Notably, these rings exhibit counter-rotational motion relative to the planet's spin, ensuring their extended longevity. The Aelorians, however, have witnessed minimal alterations to their planetary environment, and it's important to clarify that the volcanic activity didn't initiate cooling; rather, the cooling process arose as a consequence of decreased volcanic eruptions, subsequently leading to the formation of the high-pressure crystalline layer.
 
 # Major Locations
-- [City of Agriculture](/reference/aeloria/agriculture)
-- [City of Commerce](/reference/aeloria/commerce)
-- [City of Environment](/reference/aeloria/environment)
-- [City of Health](/reference/aeloria/health)
-- [City of Heritage](/reference/aeloria/heritage)
-- [City of Innovation](/reference/aeloria/innovation)
-- [City of Justice](/reference/aeloria/justice)
-- [City of Peace](/reference/aeloria/peace)
+- [City of Agriculture](/reference/location/aeloria/agriculture)
+- [City of Commerce](/reference/location/aeloria/commerce)
+- [City of Environment](/reference/location/aeloria/environment)
+- [City of Health](/reference/location/aeloria/health)
+- [City of Heritage](/reference/location/aeloria/heritage)
+- [City of Innovation](/reference/location/aeloria/innovation)
+- [City of Justice](/reference/location/aeloria/justice)
+- [City of Peace](/reference/location/aeloria/peace)
 
-- [City of Energy](/reference/aeloria/energy)
-- [City of the Corps](/reference/aeloria/corps)
-- [Ryyus home city](/reference/aeloria/)
+- [City of Energy](/reference/location/aeloria/energy)
+- [City of the Corps](/reference/location/aeloria/corps)
+- [Ryyus home city](/reference/location/aeloria/)
 
 {.links-list}
