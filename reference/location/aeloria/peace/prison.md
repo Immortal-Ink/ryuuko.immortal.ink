@@ -2,7 +2,7 @@
 title: High Prison Complex
 description: Mainly for imprisoning foreigners for pickup by their home planets
 published: true
-date: 2023-10-26T19:20:12.452Z
+date: 2023-10-26T19:23:01.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T19:20:12.452Z
