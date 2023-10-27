@@ -2,7 +2,7 @@
 title: testing
 description: 
 published: true
-date: 2023-10-27T10:49:49.325Z
+date: 2023-10-27T10:50:38.810Z
 tags: 
 editor: code
 dateCreated: 2023-10-27T10:49:49.325Z
@@ -67,41 +67,3 @@ dateCreated: 2023-10-27T10:49:49.325Z
          <td>0.24 Mb</td>
        </tr>
    -->
-  <script type="text/underscore-template" id="table-template">
-       
-       <% 
-        var d = new Date(cells.Date).getTime();
-        var ta = cells.Time.split(","); 
-        var m = moment(d);
-        m.hours(ta[0]);
-        m.minutes(ta[1]);  
-        var month = m.format("MMMM");
-       
-       if ( month != curMonth ) 
-       {
-           curMonth = month;
-          print("<tr><td class='month' colspan='4'><h2>" + month + "</h2></td></tr>");
-       }
-      %>    
-         
-       <tr>
-        <td><% 
-               var dayDif = m.diff(now, "days", true);
-               
-               
-               print(m.format("Do")); 
-               // if ( isToday(m) ){ print(" - Today");} 
-               if ( isToday(m) ){ print(" - " + m.fromNow());} 
-               %>
-        </td>
-        <td><%
-               if ( cells.Link != "" && cells.Link != undefined ){
-               print("<a target='_blank' href='" + cells.Link + "'>" + cells.Venue + "</a>");
-               } else print (cells.Venue);
-                %></td>
-        <td nowrap  <% if(isOld(m)) print("class='old'"); %>><% print(m.format("h:mm A")); %></td>
-        <td><% var location = googleMapLink(cells.Location);
-               print("<a target='_blank' href='" + location + "'>" + cells.Location + "</a>");
-               %></td>
-       </tr>
-       </script> 
