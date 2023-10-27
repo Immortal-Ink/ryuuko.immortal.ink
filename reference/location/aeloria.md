@@ -2,7 +2,7 @@
 title: Aeloria
 description: Aelorian home planet
 published: true
-date: 2023-10-26T19:00:00.119Z
+date: 2023-10-27T10:38:14.724Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T21:57:01.730Z
