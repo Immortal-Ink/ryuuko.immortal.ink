@@ -1,0 +1,107 @@
+<!--
+title: testing
+description: 
+published: true
+date: 2023-10-27T10:49:49.325Z
+tags: 
+editor: code
+dateCreated: 2023-10-27T10:49:49.325Z
+-->
+
+  <div class="download"> 
+    <a href="http://djsplyce.com/">Splyce Website</a>
+  </div>
+  
+  <h1>Schedule</h1>
+   <table cellspacing="0" class="table" id="table" >
+     <tbody id="tableb"> 
+       <tr>
+         <td class="head">Day</td>
+         <td class="head">Venue</td>
+         <td class="head">Time</td>
+         <td class="head">Location</td>
+       </tr> 
+       <!-- Dynamic content here -->
+      </tbody>
+  </table> 
+  
+  
+<!--
+<h3><a href="http://djsplyce.com/www/schedule/">Splyce's Schedule</a></h3>
+
+<ul id="hr">
+  <script type="text/underscore-template" id="hr-template">
+    <% 
+        var d = new Date(cells.Date).getTime();
+        var ta = cells.Time.split(","); 
+        var m = moment(d);
+        m.hours(ta[0]);
+        m.minutes(ta[1]);  
+        var month = m.format("MMMM");
+       
+       if ( month != curMonth ) 
+       {
+           curMonth = month;
+           print("<h1>" + month + "</h1>");
+       }
+    %>  
+    <li> 
+      <strong><%= cells.Venue %></strong>, <%= cells.Location %><br>
+       <%  print(m.format("MMMM, Do")) %>, <% print(m.format("h:mm A")) %><br><br>
+    </li>
+  </script>
+</ul>
+-->
+
+        
+         <!--
+       <tr>
+        <td><a class="file" href="index.php">index.php</a></td>
+        <td> PHP </td>
+        <td>0.08 Mb</td>
+       </tr>
+       
+       <tr>
+         <td><a class="folder" href="folder">folder/</a></td>
+         <td> Folder </td>
+         <td>0.24 Mb</td>
+       </tr>
+   -->
+  <script type="text/underscore-template" id="table-template">
+       
+       <% 
+        var d = new Date(cells.Date).getTime();
+        var ta = cells.Time.split(","); 
+        var m = moment(d);
+        m.hours(ta[0]);
+        m.minutes(ta[1]);  
+        var month = m.format("MMMM");
+       
+       if ( month != curMonth ) 
+       {
+           curMonth = month;
+          print("<tr><td class='month' colspan='4'><h2>" + month + "</h2></td></tr>");
+       }
+      %>    
+         
+       <tr>
+        <td><% 
+               var dayDif = m.diff(now, "days", true);
+               
+               
+               print(m.format("Do")); 
+               // if ( isToday(m) ){ print(" - Today");} 
+               if ( isToday(m) ){ print(" - " + m.fromNow());} 
+               %>
+        </td>
+        <td><%
+               if ( cells.Link != "" && cells.Link != undefined ){
+               print("<a target='_blank' href='" + cells.Link + "'>" + cells.Venue + "</a>");
+               } else print (cells.Venue);
+                %></td>
+        <td nowrap  <% if(isOld(m)) print("class='old'"); %>><% print(m.format("h:mm A")); %></td>
+        <td><% var location = googleMapLink(cells.Location);
+               print("<a target='_blank' href='" + location + "'>" + cells.Location + "</a>");
+               %></td>
+       </tr>
+       </script> 
