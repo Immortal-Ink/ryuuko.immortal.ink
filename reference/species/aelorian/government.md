@@ -2,7 +2,7 @@
 title: Aelorian Government
 description: 10 Ministries to rule them all
 published: true
-date: 2023-10-26T18:23:25.516Z
+date: 2023-10-29T23:31:39.021Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-25T16:38:04.862Z
@@ -25,7 +25,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 Responsible for food production, crop cultivation, and the management of agricultural resources. They focus on sustainable farming practices and ensuring food security.
 - [Ministry of Agriculture](/reference/species/aelorian/government/agriculture)
 {.links-list}
-> Represented by a wreath made of grain surrounding a depiction of a pair of the unique crater shaped oceans signature to the planet.
+> Represented by a wreath made of grain surrounding a depiction of a tilled field goinf up and inward from the bottom up. like the atari logo.
 {.is-info}
 
 
