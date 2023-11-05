@@ -2,7 +2,7 @@
 title: Aelorian
 description: The birb people
 published: true
-date: 2023-10-22T15:52:13.445Z
+date: 2023-11-05T14:48:40.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T23:27:54.591Z
@@ -24,10 +24,13 @@ The majority of Aeloria's population remains oblivious to the true source of the
 Aelorian Governemt consists of task specific branches of government that together serve all Aeloria citizens.
 
 ## Religion and Belief Systems
-- Define their belief systems, gods, or spiritual practices.
-- Explore the role of religion in their society, including rituals, ceremonies, and religious leaders.
-- Consider how their belief systems influence their values, ethics, and worldview.
-Aelorians religion focuses on the cycles of nature, and reality, as well as honoring their ancestors. There is not a non verifiable deity, resulting in little to no conflict requiring seperation of science and religion. 
+The Aelorians spirituality is devoid of deities and hierarchical spiritual leaders, emphasizing reverence for cyclic patterns governing nature, reality, and ancestral worship. It does not involve the worship of divine beings or authoritative spiritual figures, fostering a sense of collective participation and autonomy in their religious practices.
+
+Aelorians interpret natural and reality cycles as metaphors for essential aspects of existence, providing them with a framework to understand the intricacies of the world. Ancestral worship plays a pivotal role in their spirituality, involving rituals and ceremonies to honor their forebears and perpetuate their wisdom and legacy within their society. These beliefs significantly influence Aelorians' values and ethical principles, emphasizing harmony with the natural world and respect for ancestral wisdom. Consequently, their spirituality fosters a strong sense of community and preservation of heritage.
+
+This belief system has historical roots in pantheonic structures of belief that existed in ancient times. These earlier religious frameworks evolved into the foundation for the governance of Aeloria. The ministries, which form the governing body, do have individuals known as Directors who oversee their functions. However, these Directors serve administrative roles, devoid of spiritual authority or divine claims. This approach aligns with the Aelorians' unique belief system, emphasizing collective harmony, nature, and ancestral reverence over traditional religious hierarchies.
+
+
 
 ## Society and Social Structure
 - Outline their social hierarchy, if any, including classes or castes.
