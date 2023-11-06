@@ -2,7 +2,7 @@
 title: Characters
 description: Master list of all characters in the comic, and when they appear, as well as their owners, and their information and details.
 published: true
-date: 2023-10-07T22:58:06.511Z
+date: 2023-11-06T22:54:58.893Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:53:50.759Z
@@ -15,6 +15,7 @@ dateCreated: 2023-09-20T02:53:50.759Z
 - [Bobo *Bartender, belongs to claweddrip*](/en/reference/character/aelorian/bobo)
 - [Fénix *Unknown Role*](/en/reference/character/aelorian/fénix)
 - [Vetica *Unknown Role*](/en/reference/character/aelorian/vetica)
+- [Vellenna Greystar *Unknown Role*](/en/reference/character/aelorian/vellenna-greystar)
 {.links-list}
 
 # Dracarnith
