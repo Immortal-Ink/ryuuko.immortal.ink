@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-10-26T18:14:13.238Z
+date: 2023-11-24T04:23:58.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-18T18:49:14.847Z
 Welcome to the Aelorian Global Archive Initiative, Operated by the Ministry of Heritage, sponsored by Cobra Laboratories.
 
 ## Frequented Pages
-- [The Planet of Aeloria](reference/location/aeloria)
+- [The Planet of Aeloria](/reference/location/aeloria)
 - [The Aelorian Government](/reference/species/aelorian/government)
 - [Ministry of Heritage](/reference/species/aelorian/government/heritage)
 - [![viper.svg](/reference/organizations/cobra/viper.svg =15x) Cobra Laboratories](reference/organization/cobra-laboratories)
