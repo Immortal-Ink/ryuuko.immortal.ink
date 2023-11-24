@@ -2,7 +2,7 @@
 title: Technical Manual
 description: Engineering and Technical Manual for the VIPER Unit
 published: true
-date: 2023-11-24T04:37:16.144Z
+date: 2023-11-24T04:38:04.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:30:33.046Z
@@ -32,27 +32,6 @@ The following manual is designed for operators to maintain, repair, and modify t
 - [Chapter 19 - Appendices](/reference/character/aelorian/ryuuko/manual/19)
 - [Chapter 20 - Contact and Support](/reference/character/aelorian/ryuuko/manual/20)
 {.links-list}
-
-**Chapter 1: Introduction**
-- **Introduction to the Robot:** An overview of the robot and its purpose.
-- **Purpose and Scope of the Manual:** Explanation of what the manual covers and its intended audience.
-- **Safety Precautions:** Essential safety guidelines and precautions for using and maintaining the robot.
-
-**Chapter 2: Getting Started**
-- **Robot Overview:** Detailed introduction to the robot's physical structure and key components.
-- **Powering On/Off:** Instructions for safely turning the robot on and off.
-- **Initial Setup and Calibration:** Steps for the initial setup and calibration process.
-- **User Interface:** Explanation of the robot's user interface and how to interact with it.
-
-**Chapter 3: Head**
-- **Head Components and Functions:** Detailed descriptions of the components in the robot's head and their functions.
-- **Head Calibration:** Procedures for calibrating and fine-tuning the head.
-- **Troubleshooting the Head:** Guidance for identifying and resolving head-related issues.
-
-**Chapter 4: Torso**
-- **Torso Components and Functions:** Detailed descriptions of the components in the robot's torso and their functions.
-- **Torso Calibration:** Procedures for calibrating and fine-tuning the torso.
-- **Troubleshooting the Torso:** Guidance for identifying and resolving torso-related issues.
 
 **Chapter 5: Wings, Arms and Hands**
 - **Wing, Arm and Hand Components and Functions:** Detailed descriptions of the components in the robot's arms and hands and their functions.
