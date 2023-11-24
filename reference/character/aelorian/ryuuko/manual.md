@@ -2,7 +2,7 @@
 title: Technical Manual
 description: Engineering and Technical Manual for the VIPER Unit
 published: true
-date: 2023-11-24T05:41:32.800Z
+date: 2023-11-24T05:50:39.126Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:30:33.046Z
