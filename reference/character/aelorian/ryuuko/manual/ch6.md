@@ -1,13 +1,13 @@
 ---
-title: Untitled Page
+title: Legs and Talons
 description: 
 published: true
-date: 2023-11-24T05:45:12.422Z
+date: 2023-11-24T06:20:16.311Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:39:06.263Z
 ---
 
-Leg and Talon Components and Functions: Detailed descriptions of the components in the robot's legs and talon and their functions.
-Leg and Talon Calibration: Procedures for calibrating and fine-tuning the legs and talon.
-Troubleshooting Legs and Talons: Guidance for identifying and resolving issues with the legs and talon.
+- [Leg and Talon Components and Functions *Detailed descriptions of the components in the robot's legs and talon and their functions*](/reference/character/aelorian/ryuuko/manual/ch6/s1)
+- [Leg and Talon Calibration *Procedures for calibrating and fine-tuning the legs and talon*](/reference/character/aelorian/ryuuko/manual/ch6/s2)
+- [Troubleshooting Legs and Talons *Guidance for identifying and resolving issues with the legs and talon*](/reference/character/aelorian/ryuuko/manual/ch6/s3)
