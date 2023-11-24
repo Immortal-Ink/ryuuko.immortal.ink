@@ -2,7 +2,7 @@
 title: Technical Manual
 description: Engineering and Technical Manual for the VIPER Unit
 published: true
-date: 2023-11-24T04:38:04.303Z
+date: 2023-11-24T04:45:26.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:30:33.046Z
@@ -33,35 +33,7 @@ The following manual is designed for operators to maintain, repair, and modify t
 - [Chapter 20 - Contact and Support](/reference/character/aelorian/ryuuko/manual/20)
 {.links-list}
 
-**Chapter 5: Wings, Arms and Hands**
-- **Wing, Arm and Hand Components and Functions:** Detailed descriptions of the components in the robot's arms and hands and their functions.
-- **Wing, Arm and Hand Calibration:** Procedures for calibrating and fine-tuning the arms and hands.
-- **Troubleshooting Arms and Hands:** Guidance for identifying and resolving issues with the arms and hands.
 
-**Chapter 6: Legs and Talons**
-- **Leg and Talon Components and Functions:** Detailed descriptions of the components in the robot's legs and talon and their functions.
-- **Leg and Talon Calibration:** Procedures for calibrating and fine-tuning the legs and talon.
-- **Troubleshooting Legs and Talons:** Guidance for identifying and resolving issues with the legs and talon.
-
-**Chapter 7: Sensors and Perception**
-- **Sensor Types and Locations:** Overview of the various sensors used in the robot and their placements.
-- **Sensor Calibration:** Procedures for calibrating and optimizing sensor performance.
-- **Troubleshooting Sensors:** Guidance for identifying and resolving sensor-related issues.
-
-**Chapter 8: Mobility and Locomotion**
-- **Locomotion Mechanisms:** Explanation of how the robot moves and its locomotion systems.
-- **Motion Control:** Details about controlling the robot's movement.
-- **Troubleshooting Mobility:** Guidance for identifying and resolving mobility-related issues.
-
-**Chapter 9: Communication Systems**
-- **Communication Interfaces:** Overview of the robot's communication systems and interfaces.
-- **Data Transmission:** Information about sending and receiving data.
-- **Troubleshooting Communication:** Guidance for identifying and resolving communication-related issues.
-
-**Chapter 10: Power and Energy Management**
-- **Power Sources:** Explanation of the robot's power sources and supply.
-- **Energy-Efficiency Strategies:** Tips and strategies for efficient power usage.
-- **Troubleshooting Power Systems:** Guidance for identifying and resolving power-related issues.
 
 **Chapter 11: Software and Control Systems**
 - **Control Software Overview:** Overview of the software used to control the robot.
