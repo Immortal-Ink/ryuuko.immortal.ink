@@ -2,7 +2,7 @@
 title: Technical Manual
 description: Engineering and Technical Manual for the VIPER Unit
 published: true
-date: 2023-11-24T06:37:01.141Z
+date: 2023-11-24T06:46:52.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:30:33.046Z
@@ -11,15 +11,15 @@ dateCreated: 2023-11-24T04:30:33.046Z
 V.I.P.E.R. - Versatile Infiltration and Precision Elimination Robot -  Revision 7 - Technical and engineering manual.
 
 The following manual is designed for operators to maintain, repair, and modify the VIPER unit. Unit maintains internal documentation so Cobra Labs has organized this to be easily understandable by biological engineers and staff.
-- [Chapter 1 - Introduction](/reference/character/aelorian/ryuuko/manual/ch1)
-- [Chapter 2 - Getting Started](/reference/character/aelorian/ryuuko/manual/ch2)
-- [Chapter 3 - Head](/reference/character/aelorian/ryuuko/manual/ch3)
-- [Chapter 4 - Torso](/reference/character/aelorian/ryuuko/manual/ch4)
-- [Chapter 5 - Wings, Arms and Hands](/reference/character/aelorian/ryuuko/manual/ch5)
-- [Chapter 6 - Legs and Talons](/reference/character/aelorian/ryuuko/manual/ch6)
-- [Chapter 7 - Sensors and Perception](/reference/character/aelorian/ryuuko/manual/ch7)
-- [Chapter 8 - Mobility and Flight](/reference/character/aelorian/ryuuko/manual/ch8)
-- [Chapter 9 - Communication Systems](/reference/character/aelorian/ryuuko/manual/ch9)
+- [Chapter 01 - Introduction](/reference/character/aelorian/ryuuko/manual/ch1)
+- [Chapter 02 - Getting Started](/reference/character/aelorian/ryuuko/manual/ch2)
+- [Chapter 03 - Head](/reference/character/aelorian/ryuuko/manual/ch3)
+- [Chapter 04 - Torso](/reference/character/aelorian/ryuuko/manual/ch4)
+- [Chapter 05 - Wings, Arms and Hands](/reference/character/aelorian/ryuuko/manual/ch5)
+- [Chapter 06 - Legs and Talons](/reference/character/aelorian/ryuuko/manual/ch6)
+- [Chapter 07 - Sensors and Perception](/reference/character/aelorian/ryuuko/manual/ch7)
+- [Chapter 08 - Mobility and Locomotion](/reference/character/aelorian/ryuuko/manual/ch8)
+- [Chapter 09 - Communication Systems](/reference/character/aelorian/ryuuko/manual/ch9)
 - [Chapter 10 - Power and Energy Management](/reference/character/aelorian/ryuuko/manual/ch10)
 - [Chapter 11 - Software and Control Systems](/reference/character/aelorian/ryuuko/manual/ch11)
 - [Chapter 12 - Maintenance and Cleaning](/reference/character/aelorian/ryuuko/manual/ch12)
