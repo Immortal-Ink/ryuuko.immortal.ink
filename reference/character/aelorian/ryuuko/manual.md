@@ -2,7 +2,7 @@
 title: Technical Manual
 description: Engineering and Technical Manual for the VIPER Unit
 published: true
-date: 2023-11-24T05:50:39.126Z
+date: 2023-11-24T06:37:01.141Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:30:33.046Z
@@ -18,7 +18,7 @@ The following manual is designed for operators to maintain, repair, and modify t
 - [Chapter 5 - Wings, Arms and Hands](/reference/character/aelorian/ryuuko/manual/ch5)
 - [Chapter 6 - Legs and Talons](/reference/character/aelorian/ryuuko/manual/ch6)
 - [Chapter 7 - Sensors and Perception](/reference/character/aelorian/ryuuko/manual/ch7)
-- [Chapter 8 - Mobility and Locomotion](/reference/character/aelorian/ryuuko/manual/ch8)
+- [Chapter 8 - Mobility and Flight](/reference/character/aelorian/ryuuko/manual/ch8)
 - [Chapter 9 - Communication Systems](/reference/character/aelorian/ryuuko/manual/ch9)
 - [Chapter 10 - Power and Energy Management](/reference/character/aelorian/ryuuko/manual/ch10)
 - [Chapter 11 - Software and Control Systems](/reference/character/aelorian/ryuuko/manual/ch11)
