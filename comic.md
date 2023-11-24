@@ -2,7 +2,7 @@
 title: Comics
 description: List of comics
 published: true
-date: 2023-11-24T17:43:17.487Z
+date: 2023-11-24T17:53:55.033Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:46:23.259Z
@@ -30,5 +30,5 @@ Master list of comics
 - [Ryuuko: Down Under]()
 - [Ryuuko: Friendly Repairs]()
 - [Total Eqlipse: Of The Heart]()
-- [Downtime Heritage]()
+- [Downtime at Heritage]()
 {.links-list}
