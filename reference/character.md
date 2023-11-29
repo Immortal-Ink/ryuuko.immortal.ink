@@ -2,7 +2,7 @@
 title: Characters
 description: Master list of all characters in the comic, and when they appear, as well as their owners, and their information and details.
 published: true
-date: 2023-11-07T00:13:27.357Z
+date: 2023-11-29T22:04:36.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:53:50.759Z
@@ -20,4 +20,12 @@ dateCreated: 2023-09-20T02:53:50.759Z
 
 # Dracarnith
 - [Vatuu *God Ego Mercenary Employer*](/en/reference/character/dracarnith/vatuu)
+{.links-list}
+
+# Calikoi
+- [Yaki *blep*](/en/reference/character/calikoi/yaki-surname)
+{.links-list}
+
+# Raptor Avali Hybrid
+- [Auto *blep*](/en/reference/character/)
 {.links-list}
