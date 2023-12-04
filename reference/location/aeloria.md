@@ -2,7 +2,7 @@
 title: Aeloria
 description: Aelorian home planet
 published: true
-date: 2023-11-29T21:43:57.802Z
+date: 2023-12-04T12:34:54.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T21:57:01.730Z
@@ -74,6 +74,6 @@ Aeloria is a celestial anomaly, orbiting an exceptionally radiant and tranquil r
 
 - [City of Energy](/reference/location/aeloria/energy)
 - [City of the Corps](/reference/location/aeloria/corps)
-- [Ryyus home city](/reference/location/aeloria/)
+- [Eira Ryyus home city](/reference/location/aeloria/)
 
 {.links-list}
