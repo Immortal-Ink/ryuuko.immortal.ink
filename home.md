@@ -1,8 +1,8 @@
 ---
 title: Home
-description: 
+description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. Please contact helpdesk@avian.ae for inquiries or assistance.
 published: true
-date: 2023-11-24T04:23:58.641Z
+date: 2023-12-08T18:37:58.066Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
