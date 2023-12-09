@@ -2,14 +2,19 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2023-12-08T18:38:55.261Z
+date: 2023-12-09T22:12:56.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
 ---
 
-# Welcome ![bird.png](/branding/bird.png =62x){.align-right}
-Welcome to the Aelorian Global Archive Initiative, Operated by the Ministry of Heritage, sponsored by Cobra Laboratories.
+Welcome to the
+
+![avianlogo.webp](/branding/avianlogo.webp){.align-center}
+
+
+
+
 
 ## Frequented Pages
 - [The Planet of Aeloria](/reference/location/aeloria)
