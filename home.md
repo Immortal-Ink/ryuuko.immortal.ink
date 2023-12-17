@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2023-12-17T12:55:30.992Z
+date: 2023-12-17T12:56:21.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -44,4 +44,3 @@ Welcome to the
 
 ![immortalink_initials_square450.png](/branding/immortalink_initials_square450.png){.align-abstopright}
 
-<iframe id='kofiframe' src='https://ko-fi.com/immortalink/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='immortalink'></iframe>
