@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2023-12-20T13:38:06.815Z
+date: 2023-12-20T13:38:23.954Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -13,7 +13,7 @@ Welcome to the
 ![avianlogo.webp](/branding/avianlogo.webp){.align-center}
 
 
-<iframe src="https://status.exile.rocks/badge?theme=dark" width="255" height="35" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://status.exile.rocks/badge?theme=dark" width="255" height="35" frameborder="1" scrolling="no"></iframe>
 
 
 ## Frequented Pages
