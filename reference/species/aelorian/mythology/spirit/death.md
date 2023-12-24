@@ -2,7 +2,7 @@
 title: Chikage
 description: 近景
 published: true
-date: 2023-12-24T12:26:57.207Z
+date: 2023-12-24T12:27:49.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T11:25:08.872Z
@@ -36,7 +36,7 @@ Guided to reunion, eternally.
 ---
 
 There is a mural on a mountain side, depicting a young boy, climbing a tree with their childhood friend. In the next depiction, she falls to her death, and the boy and his village are depicted mourning. 
-Death, a young bird, cloaked in shadow appears only to the boy, and shows him visions of him hunting a great predator, constructing a great machine, dancing with children that look like they could be his siblings, and standing before a great valley. The visions end with a depiction of the young boy, and his childhood friend together once more, running through the forest.
+Death, a young bird, cloaked in shadow appears only to the boy, and shows him visions of him hunting a great predator, constructing a great array of tools and machines, dancing with children that look like they could be his siblings, and standing before a great valley. The visions end with a depiction of the young boy, and his childhood friend together once more, running through the forest.
 The boy is depicted as seeing these as challenges presented by death in exchange for the return of his friend. "Do these, and be together again" he thinks.
 The boy is then depicted protecting a girl from a predator, striking it down and killing it. 
 He is then depicted building tools, and performing work that supports his village.
