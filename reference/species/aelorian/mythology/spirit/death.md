@@ -2,7 +2,7 @@
 title: Chikage
 description: 近景
 published: true
-date: 2023-12-24T12:23:49.345Z
+date: 2023-12-24T12:24:40.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T11:25:08.872Z
@@ -41,7 +41,7 @@ The boy is depicted as seeing these as challenges presented by death in exchange
 The boy is then depicted protecting a girl from a predator, striking it down and killing it. He is then depicted building mining equipment as an adult.
 Then, depicted much older, he dances with what we now understand to be his children with the girl he protected.
 And finally, as an old bird, he sits atop a mountain, under a tree, looking across a beautiful valley.
-Death returns, and holds out a hand, the boys spirit reaches up and takes it, leaving his dead body behind, and death leads him into the sky, where his childhood friend is waiting for him.
+Death returns, and holds out a hand, the boys spirit reaches up and takes it, leaving his dead body behind, and death leads him into the sky, where his childhood friend is waiting for him, and they are reunited as children, to forever play in the afterlife.
 
 ---
 
