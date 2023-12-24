@@ -1,8 +1,8 @@
 ---
 title: Death
-description: or The Shadow Bearer
+description: Guide in the Shadows
 published: true
-date: 2023-12-24T11:35:46.980Z
+date: 2023-12-24T11:36:58.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T11:25:08.872Z
