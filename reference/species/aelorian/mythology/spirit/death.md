@@ -2,7 +2,7 @@
 title: Chikage
 description: 近景
 published: true
-date: 2023-12-24T12:32:30.696Z
+date: 2023-12-25T08:06:12.480Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T11:25:08.872Z
@@ -51,7 +51,7 @@ Death, a young bird, cloaked in shadow appears only to the boy, and shows him vi
 The boy is depicted as seeing these as challenges presented by death in exchange for the return of his friend. "Do these, and be together again" he thinks.
 The boy is then depicted protecting a girl from a predator, striking it down and killing it. They fall in love.
 He is then depicted building tools, and performing work that supports his village. Building a life for himself and his mate.
-Then, depicted much older, he dances with what we now understand to be his children with the girl he protected and married.
+Then, depicted much older, he dances with what we now understand to be his children with the girl he saved and married.
 And finally, as an old bird, he sits atop a mountain, under a tree, looking across a beautiful valley.
 Death returns, and holds out a hand, the boys spirit reaches up and takes it, leaving his dead body behind, and death leads him into the sky, where his childhood friend is waiting for him, and they are reunited as children, to forever play in the afterlife.
 
