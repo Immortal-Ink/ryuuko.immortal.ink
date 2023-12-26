@@ -2,7 +2,7 @@
 title: Aeloria
 description: Aelorian home planet
 published: true
-date: 2023-12-04T12:34:54.643Z
+date: 2023-12-26T03:21:00.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T21:57:01.730Z
@@ -12,7 +12,7 @@ dateCreated: 2023-09-20T21:57:01.730Z
 ![aelorian_landscape.webp](/reference/aeloria/aelorian_landscape.webp){.align-center}
 Home to the anthropromorphic avian race, the Aelorian.
 # Planetary Material and Composition
-The planet has overall an incredibly low sodium and sodium ion presence. This results in a number of interesting ecosystems and biological processes. Aeloria has a gravity of <kbd>9.02244 m/s²</kbd>, a radius of <kbd>3,562.92 mi</kbd> and a mass of <kbd>4.445x10²⁴kg</kbd>
+The planet has overall an incredibly low sodium and sodium ion presence. This results in a number of interesting ecosystems and biological processes. Aeloria has a gravity of `9.02244 m/s²`, a radius of `3,562.92 mi` and a mass of `4.445x10²⁴kg`
 
 The upper crust of the planet has very little:
 - Sodium
