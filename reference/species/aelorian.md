@@ -2,7 +2,7 @@
 title: Aelorian
 description: The birb people
 published: true
-date: 2023-12-24T11:19:39.453Z
+date: 2024-01-19T16:47:03.734Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T23:27:54.591Z
@@ -102,3 +102,17 @@ yep
 - Identify their core values, ethics, and social norms.
 - Explore concepts of morality, justice, and social responsibility in their culture.
 
+
+Male
+- Skinny narrow shoulders
+- Thin and lithe, good for flying fast and zoomy
+- Slightly larger beaks
+- Slightly Bigger more angular Wings
+- Longer feet talons with musculature right below each join as part of the next part of the talon
+
+Female
+- Slightly Wider shoulders
+- Wider wasit and bigger hips (egg layers)
+- Slightly Smaller beaks (more precise when feeding the young in ancient times)
+- Slightly Smaller more curved wings
+- Stockier feet talons more uniform in thickness but still skinny and lithe, just shorter and without the extra muscle definition at the top of each segment.
