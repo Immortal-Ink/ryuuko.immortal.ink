@@ -2,7 +2,7 @@
 title: Aelorian
 description: The birb people
 published: true
-date: 2024-01-19T16:50:07.867Z
+date: 2024-01-19T16:51:43.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T23:27:54.591Z
@@ -109,10 +109,12 @@ Male
 - Slightly larger beaks
 - Slightly Bigger more angular Wings
 - Longer feet talons with musculature right below each join as part of the next part of the talon
+- average 6'5" - 7'2" tall
 
 Female
 - Skinny narrow shoulders (Shoulders not important evolutionarily doesnt fly as much and egg layer)
-- Wider waist and bigger hips (egg layers)
+- Wider waist and bigger hips and thicker thighs (egg layers)
 - Slightly Smaller beaks (more precise when feeding the young in ancient times)
 - Slightly Smaller more curved wings
 - Stockier feet talons more uniform in thickness but still skinny and lithe, just shorter and without the extra muscle definition at the top of each segment.
+- average 6'9" - 7'8" tall
