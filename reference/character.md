@@ -2,7 +2,7 @@
 title: Characters
 description: Master list of all characters in the comic, and when they appear, as well as their owners, and their information and details.
 published: true
-date: 2023-12-17T07:47:14.776Z
+date: 2024-04-10T21:46:05.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:53:50.759Z
@@ -10,8 +10,10 @@ dateCreated: 2023-09-20T02:53:50.759Z
 
 # Aelorian
 - [Ryuuko *Main Character*](/en/reference/character/aelorian/ryuuko)
+- [Kinryu *Director of Innovation*](/en/reference/character/aelorian/kinryu)
 - [Lead Engineer *unamed*](/en/reference/character/aelorian/cobra-lead-engineer)
 - [Eira Ryyu *Director of Ministry*](/en/reference/character/aelorian/eira-ryyu)
+- [Lyra *Belongs to Waga*](/en/reference/character/aelorian/lyra)
 - [Jacob *The Courier*](/en/reference/character/aelorian/jacob)
 - [Bobo *Bartender, belongs to claweddrip*](/en/reference/character/aelorian/bobo)
 - [Fénix *Unknown Role*](/en/reference/character/aelorian/fénix)
