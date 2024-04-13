@@ -2,7 +2,7 @@
 title: Shader Design Initial Planning
 description: 
 published: true
-date: 2024-04-13T19:20:55.773Z
+date: 2024-04-13T19:27:46.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T14:17:20.020Z
@@ -14,7 +14,7 @@ Ideally the shader is integrated into the self lighting utility:
 
 where every object we want to light and shade, we slap on the shader network and configure lighting direction and detaisl, customize the settings as detailed below for style, and then the object is lit and shaded for the scene and camera angle of the stills we intend to render.
 
-
+the shader overall intends to make 3d models have a drawn 2d appearance similar to the art below.
 
 Desired Setings:
 Light Source
@@ -36,7 +36,8 @@ Thin strips where the underlying color of the model is lightened and one of two 
 Soft shadows are large, and fall off slowly
 - Hard Shadow
 Hard shadows are more exact, and fall off quickly or immediatly.
-
+- Cell shading
+cell shading and some configuration for that such as weight and line thickness.
 
 Possible Textures as options:
 - Solid
