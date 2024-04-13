@@ -2,7 +2,7 @@
 title: Shader Design Initial Planning
 description: 
 published: true
-date: 2024-04-13T14:17:20.020Z
+date: 2024-04-13T14:19:50.513Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T14:17:20.020Z
@@ -42,3 +42,4 @@ A texture is overlayed the mask, the texture is repeated and aligns with the cam
 
 
 
+Examples of Solid Texture:
