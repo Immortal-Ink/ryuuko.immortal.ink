@@ -2,7 +2,7 @@
 title: Shader Design Initial Planning
 description: 
 published: true
-date: 2024-04-13T14:19:50.513Z
+date: 2024-04-13T14:35:35.322Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T14:17:20.020Z
@@ -40,6 +40,21 @@ Creates the shadow as a flat mask that darkens the color it overlays, and can gr
 - Screenspace
 A texture is overlayed the mask, the texture is repeated and aligns with the camera view. one or two textures are desired, dot grid, and diagonal lines.
 
+Perhaps a possibility of coloring the shadow based on the color of the light source configuration.
 
+## Examples of Solid Texture:
+In these examples, there is different levels of falloff and amount in which the shadow darkens the underlying color, which could be an inverse? of the brightness of the light source setting casting the shadow.
 
-Examples of Solid Texture:
+![solid1.webp](/meta/design/shader/solid1.webp =900x)
+![solid2.webp](/meta/design/shader/solid2.webp =900x)
+
+---
+
+## Examples of Screenspace Texture:
+In these examples there is a variety of textures used, but all align with the camera view.
+
+![screenspace1.webp](/meta/design/shader/screenspace1.webp =900x)
+![screenspace2.webp](/meta/design/shader/screenspace2.webp =900x)
+![screenspace3.webp](/meta/design/shader/screenspace3.webp =900x)
+![screenspace4.webp](/meta/design/shader/screenspace4.webp =900x)
+![screenspace5.webp](/meta/design/shader/screenspace5.webp =900x)
