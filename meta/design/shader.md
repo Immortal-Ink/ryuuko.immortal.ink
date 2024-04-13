@@ -2,13 +2,17 @@
 title: Shader Design Initial Planning
 description: 
 published: true
-date: 2024-04-13T14:35:35.322Z
+date: 2024-04-13T19:20:55.773Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T14:17:20.020Z
 ---
 
-Ideally the shader is integrated into the self lighting utility, were every object we want to light and shade, we slap on the shader network and configure lighting direction and detaisl, customize the settings as detailed below for style, and then the object is lit and shaded for the scene and camera angle of the stills we intend to render.
+Ideally the shader is integrated into the self lighting utility:
+
+![image-43.png](/meta/design/shader/image-43.png =900x)
+
+where every object we want to light and shade, we slap on the shader network and configure lighting direction and detaisl, customize the settings as detailed below for style, and then the object is lit and shaded for the scene and camera angle of the stills we intend to render.
 
 
 
