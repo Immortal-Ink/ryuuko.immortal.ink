@@ -2,7 +2,7 @@
 title: Aelorian
 description: The birb people
 published: true
-date: 2024-01-19T16:51:43.779Z
+date: 2024-04-15T04:45:44.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T23:27:54.591Z
@@ -76,6 +76,7 @@ Aelorian dont generally need to wear clothing, there is no cultural shame in it.
 - Describe their diplomacy and foreign policy.
 
 ## History and Mythology
+- [Anatomy and Species Detail](/en/reference/species/aelorian/design)
 - [Aelorian Government](/en/reference/species/aelorian/government)
 - [History](/en/reference/species/aelorian/history)
 - [Mythology](/en/reference/species/aelorian/mythology)
