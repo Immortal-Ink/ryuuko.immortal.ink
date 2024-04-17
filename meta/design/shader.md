@@ -2,7 +2,7 @@
 title: Shader Design Initial Planning
 description: 
 published: true
-date: 2024-04-13T19:27:46.370Z
+date: 2024-04-17T15:13:28.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-13T14:17:20.020Z
@@ -37,7 +37,7 @@ Soft shadows are large, and fall off slowly
 - Hard Shadow
 Hard shadows are more exact, and fall off quickly or immediatly.
 - Cell shading
-cell shading and some configuration for that such as weight and line thickness.
+cell shading and some configuration for that such as weight and intensity.
 
 Possible Textures as options:
 - Solid
