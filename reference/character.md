@@ -2,7 +2,7 @@
 title: Characters
 description: Master list of all characters in the comic, and when they appear, as well as their owners, and their information and details.
 published: true
-date: 2024-06-10T02:41:27.545Z
+date: 2024-06-10T02:43:28.248Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:53:50.759Z
