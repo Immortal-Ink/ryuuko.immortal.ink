@@ -2,7 +2,7 @@
 title: Origins Storyboarding
 description: 
 published: true
-date: 2024-06-10T03:06:18.986Z
+date: 2024-06-10T03:06:38.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T14:27:55.878Z
@@ -24,8 +24,8 @@ The goverment auditor is demanding more details about the project. Wrenna stonew
 ---
 
 ## Scene 2
-At some point Wrenna should step out to The Ground where we show that society's undesireables reside in less-than-ideal circumstances.
-> Distastefully and simply called "The Ground", the lower half of most Aelorian cities are dedicated to the infrastructure required to run the city, such as waste, energy, etc. The Ground is the home of criminals, sick, elderly and disabled, and is not maintained anywhere near as well as the cities themselves. This creates a natural class system with the wealthy/healthy above and the sick and accused below. However, The Ground is in much better condition then we see in Wrennas flashback, something she seems to take pride in. Direct her attention to the same location where she saved someone else as a kid, matching the frame exactly, showing how much better the location is now maintained and looks.
+At some point Wrenna should step out to The Ground where we show that society's undesireables reside in less-than-ideal circumstances. However, The Ground is in much better condition then we see in Wrennas flashback, something she seems to take pride in. Direct her attention to the same location where she saved someone else as a kid, matching the frame exactly, showing how much better the location is now maintained and looks.
+> Distastefully and simply called "The Ground", the lower half of most Aelorian cities are dedicated to the infrastructure required to run the city, such as waste, energy, etc. The Ground is the home of criminals, sick, elderly and disabled, and is not maintained anywhere near as well as the cities themselves. This creates a natural class system with the wealthy/healthy above and the sick and accused below.
 {.is-info}
 
 ---
