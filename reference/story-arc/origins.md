@@ -2,7 +2,7 @@
 title: Origins Storyboarding
 description: 
 published: true
-date: 2024-06-10T03:06:38.554Z
+date: 2024-06-10T06:43:24.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T14:27:55.878Z
@@ -35,3 +35,6 @@ Need to plan out a scene where we can challenge her morals and let her take a st
 
 ## Scene 
 A scene where she actually works on Ryuuko without showing Ryuuko. Should use this scene to develope her relationship with her staff. We should show a couple of co-workers with very close positive relationships who are all passionate about the project, and at least one co-worker who has distaste for the project, but loyalty to their boss.
+
+# Notes
+Id like to incorporate a traumatic childhood event for Wrenna, but not immediatly, to much flashback feels overwhelming. I'm thinking of getting to it in the second comic.
