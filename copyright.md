@@ -2,7 +2,7 @@
 title: Copyright Notices
 description: 
 published: true
-date: 2023-10-05T09:59:58.684Z
+date: 2024-06-11T16:56:33.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-05T09:59:56.617Z
@@ -20,7 +20,7 @@ Certain content within the Ryuuko Comics and this worldbuilding wiki may be expl
 
 Please refer to the sections below for any exceptions to the default copyright notice. If no alternative licensing information is provided, the default copyright terms apply.
 
-
+| <div style="width:200px">Name</div> | Phone Number |
 # Aelorian Species
 **Aelorian Species Usage Guidelines:**
 
