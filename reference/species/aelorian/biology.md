@@ -2,7 +2,7 @@
 title: Aelorian Species / Biological Design
 description: 
 published: true
-date: 2024-06-17T16:25:47.355Z
+date: 2024-06-18T20:23:03.860Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-15T04:45:39.684Z
@@ -19,7 +19,7 @@ The wing extends outward away from the body on either side with a highly extende
 
 The pisiform was extended rather then mounting feathers directly to the arm alone as flight puts the wing under a great deal of stress, an extended bone provides greater strength and control to the primaries. 
 
-The pisiform folds inwards ulnawards
+The pisiform folds inwards ulnawards 
 
 ## Musculature
 The pectoral, rotator cuff, deltoid and latissimus dorsi muscles are most important for allowing the humanoid body to still have useful maneuverable flight. As such, strong flyers will have exaggerated shoulder and pectoral muscles.
