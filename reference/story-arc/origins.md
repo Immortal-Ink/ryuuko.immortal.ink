@@ -2,7 +2,7 @@
 title: Origins Storyboarding
 description: 
 published: true
-date: 2024-06-24T18:30:33.023Z
+date: 2024-06-24T18:32:05.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T14:27:55.878Z
@@ -35,6 +35,10 @@ Need to plan out a scene where we can challenge her morals and let her take a st
 
 ## Scene 
 A scene where she actually works on Ryuuko without showing Ryuuko. Should use this scene to develope her relationship with her staff. We should show a couple of co-workers with very close positive relationships who are all passionate about the project, and at least one co-worker who has distaste for the project, but loyalty to their boss.
+
+## Second to last scene
+
+The final cut to ryuuko on the wall hooked up and covered in wires with missing panels, but all in the dark so you can barely see whats being alluded to. Wrenna leaves the facility to fly to a near by little park behind the city, which triggers the next scene, find a way to communicate that this location was special, and the labs were built here so that wrenna could come here.
 
 ## Final Scene
 
