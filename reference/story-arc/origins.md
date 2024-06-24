@@ -2,7 +2,7 @@
 title: Origins Storyboarding
 description: 
 published: true
-date: 2024-06-10T06:43:24.559Z
+date: 2024-06-24T18:30:33.023Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T14:27:55.878Z
@@ -35,6 +35,10 @@ Need to plan out a scene where we can challenge her morals and let her take a st
 
 ## Scene 
 A scene where she actually works on Ryuuko without showing Ryuuko. Should use this scene to develope her relationship with her staff. We should show a couple of co-workers with very close positive relationships who are all passionate about the project, and at least one co-worker who has distaste for the project, but loyalty to their boss.
+
+## Final Scene
+
+Show Wrenna in an environment, triggered by the location, flashback to her as a child in the same location with her mom giving some life advice that we use to fully define wrennas morals, cut back to wrenna as an adult sitting in the same spot, her mom not present, and wrenna tearing up, the location way prettier and cleaner then when she was a child.
 
 # Notes
 Id like to incorporate a traumatic childhood event for Wrenna, but not immediatly, to much flashback feels overwhelming. I'm thinking of getting to it in the second comic.
