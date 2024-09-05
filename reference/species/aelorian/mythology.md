@@ -2,7 +2,7 @@
 title: Aelorian Mythology
 description: 
 published: true
-date: 2023-12-24T11:39:45.954Z
+date: 2024-09-05T07:30:30.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T11:24:44.163Z
@@ -12,7 +12,8 @@ dateCreated: 2023-12-24T11:24:44.163Z
 Aelorian mythology has a variety of personifications of various natural forces. These are not a core part of their religious beliefs, which focus mainly on ancestral worship and the natural cycles of things. Aelorians understand these forces are not necessarily sentient spirits, but instead personify them to make it easier to discuss, and to show respect for those forces. 
 
 A popular spirit, Death, who they see as an entity responsible for beauty in shadow and darkness, has alot of mythology surrounding the force of nature.
-- [Death](/reference/species/aelorian/mythology/spirit/death)
+- [Chikage *Spirit of Death*](/reference/species/aelorian/mythology/spirit/death)
+- [Cyrus *Spirit of Life*](/reference/species/aelorian/mythology/spirit/life)
 {.links-list}
 
 notes:
