@@ -2,7 +2,7 @@
 title: Aelorian
 description: The birb people
 published: true
-date: 2024-06-17T15:56:32.827Z
+date: 2024-09-08T15:13:59.180Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T23:27:54.591Z
@@ -104,6 +104,7 @@ yep
 - Explore concepts of morality, justice, and social responsibility in their culture.
 
 
+## Gender Anatomy Reference
 Male
 - Slightly Wider shoulders (Gives wings greater reach and maneuverability)
 - Thin and lithe, good for flying fast and zoomy
