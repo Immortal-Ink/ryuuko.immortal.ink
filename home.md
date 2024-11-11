@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2024-11-11T21:36:12.995Z
+date: 2024-11-11T21:38:02.742Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -15,9 +15,14 @@ Welcome to the
 ---
 
 
-<iframe style="border-style:none;" src="https://status.exile.rocks/badge?theme=dark" width="255" height="35" frameborder="0" scrolling="no"></iframe>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#242424', 'T6T2S7L1F');kofiwidget2.draw();</script> 
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://ko-fi.com/T6T2S7L1F" target="_blank">
+        <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" border="0" alt="Buy Me a Coffee at ko-fi.com" />
+    </a>
+  <iframe style="border-style:none;" src="https://status.exile.rocks/badge?theme=dark" width="255" height="35" frameborder="0" scrolling="no"></iframe>
+</div>
 
 
 ## Frequented Pages
