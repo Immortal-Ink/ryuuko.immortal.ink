@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2024-11-11T21:42:34.222Z
+date: 2024-11-11T21:44:21.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -13,12 +13,12 @@ Welcome to the
 ![avianlogo.webp](/branding/avianlogo.webp){.align-center}
  
 ---
-
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://ko-fi.com/T6T2S7L1F" target="_blank">
         <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" border="0" alt="Buy Me a Coffee at ko-fi.com" />
     </a>
-    <iframe style="border-style:none; margin-top: 10px;" src="https://status.exile.rocks/badge?theme=dark" width="255" height="35" frameborder="0" scrolling="no"></iframe>
+    <div style="width: 1px; height: 30px; background-color: #000; margin: 0 15px;"></div>
+    <iframe style="border-style:none;" src="https://status.exile.rocks/badge?theme=dark" width="255" height="35" frameborder="0" scrolling="no"></iframe>
 </div>
 
 
