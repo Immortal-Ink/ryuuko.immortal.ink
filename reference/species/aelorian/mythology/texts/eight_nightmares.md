@@ -2,7 +2,7 @@
 title: The 8 Nightmares
 description: 
 published: true
-date: 2024-11-11T21:03:00.492Z
+date: 2024-11-11T21:03:47.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T20:24:08.803Z
@@ -22,7 +22,7 @@ All that rises must one day descend, and even the loftiest soar leaves no trace.
 II. The Nightmare of Endless Molt
 "Feathers are shed, layer by layer, until nothing remains but a bare and silent form, waiting to be dust."
 We are reborn only to shed ourselves again, losing what we once were. In each cycle, pieces of us scatter to the winds, and nothing is carried into eternity unaltered.
-(Existence is a transformative process for all things, and to eachother.)
+(Existence is a transformative process for all things, and to eachother, and we cannot stop it.)
 
 ---
 
@@ -36,7 +36,7 @@ All shelters must collapse. What once held warmth and life will one day be forgo
 IV. The Nightmare of the Blinding Sun
 "When the light grows too fierce, feathers burn, and shadows are erased."
 The same light that gives us strength can consume us, erasing us in a blaze of harsh truth. The beauty of light is also its terror, for nothing withstands its final, burning gaze.
-(All things, even the stars and eternal flame, in moderation.)
+(All things, even the stars and eternal flame, in moderation, lest it burns us when we get too close.)
 
 ---
 
