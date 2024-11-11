@@ -2,7 +2,7 @@
 title: Aelorian Mythology
 description: 
 published: true
-date: 2024-09-05T07:30:30.417Z
+date: 2024-11-11T20:24:21.169Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-24T11:24:44.163Z
@@ -18,3 +18,9 @@ A popular spirit, Death, who they see as an entity responsible for beauty in sha
 
 notes:
 I would like to detail a myth about a personification of death. in the myth, death goes to the living who experience great grief over a lost loved one. Death can guide the grieving to their lost loved one when they themselves die, but only if they die fulfilled. if they die unfulfilled, then death cannot guide them, they remain as spirits on aeloria. so death marks their heart and skin with goals the individual must achieve, the last goal depicting them reunited with their lost loved one. the goals are personal to each individual, who will follow them only to get to the end goal which they think is death promising to return their lost one to them, but in reality the goals lead that individual down a healthy, happy and fulfilling life. As they complete the goals, the marks disappear, and in doing so, also lifts a little more weight and grief from their soul. and when they grow old and finally die, having completed all the goals, death brings them to reunite with their loved one. 
+
+# Religious Texts
+There is not religion as much as therer is respect for the finality and endlessness of the universe. 
+
+- [The 8 Nightmares *Ancient text written by an unknown*](/reference/species/aelorian/mythology/texts/eight_nightmares)
+{.links-list}
