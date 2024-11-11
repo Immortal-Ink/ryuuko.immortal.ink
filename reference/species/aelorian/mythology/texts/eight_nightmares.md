@@ -1,8 +1,8 @@
 ---
 title: The 8 Nightmares
-description: 
+description: An ancient text written by an unknown individual.
 published: true
-date: 2024-11-11T21:03:47.992Z
+date: 2024-11-11T21:07:35.526Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-11T20:24:08.803Z
