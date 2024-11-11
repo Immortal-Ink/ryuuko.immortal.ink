@@ -2,7 +2,7 @@
 title: OOO Look a ducc
 description: 
 published: true
-date: 2024-11-11T21:21:47.473Z
+date: 2024-11-11T21:22:41.826Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T19:31:18.204Z
@@ -15,6 +15,7 @@ dateCreated: 2023-10-26T19:31:18.204Z
     <span style="flex-grow: 1; border-bottom: 1px solid #000; margin-left: 10px;"></span>
 </p>
 
+<div style="height: 30vh;"></div>
 
 
 
