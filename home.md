@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2024-11-11T21:44:21.566Z
+date: 2024-11-24T23:58:42.032Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z
@@ -38,12 +38,13 @@ Welcome to the
 
 
 # External Links
-
-- [Immortal.ink *View our other projects*](https://immortal.ink)
+<!---
 - [Ryuuko Comic*Bird go chirp*](https://comic.immortal.ink/ryuuko/latest)
 - [Patreon *Help us afford 3D models*](https://patreon.com/aeternum)
+-->
 - [Discord *Direct link for those that dont want to become patrons*](https://discord.gg/A8YdS9tTh2)
 {.links-list}
 
 ![immortalink_initials_square450.png](/branding/immortalink_initials_square450.png){.align-abstopright}
 
+[//]: <> (This is also a comment.)
