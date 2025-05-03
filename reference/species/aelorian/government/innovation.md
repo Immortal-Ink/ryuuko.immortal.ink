@@ -2,7 +2,7 @@
 title: Ministry of Innovation
 description: 
 published: true
-date: 2024-06-10T02:29:33.258Z
+date: 2024-06-10T02:29:37.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T17:55:09.429Z

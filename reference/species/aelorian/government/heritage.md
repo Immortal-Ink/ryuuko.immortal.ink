@@ -2,7 +2,7 @@
 title: Ministry of Heritage
 description: 
 published: true
-date: 2024-06-10T02:13:31.909Z
+date: 2024-06-10T02:13:38.387Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-12T00:07:55.229Z

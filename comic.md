@@ -2,7 +2,7 @@
 title: Comics
 description: List of comics
 published: true
-date: 2023-11-24T17:53:55.033Z
+date: 2023-11-24T17:53:57.023Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:46:23.259Z

@@ -2,7 +2,7 @@
 title: Torso
 description: 
 published: true
-date: 2023-11-24T06:16:00.769Z
+date: 2023-11-24T06:16:02.783Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:37:40.834Z

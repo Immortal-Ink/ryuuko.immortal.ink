@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2023-11-24T06:01:37.683Z
+date: 2023-11-24T06:01:39.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:36:36.915Z

@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the Aelorian Virtual Information Access Network. Operated by the Archive of the Ministry of Heritage. 
 published: true
-date: 2024-11-24T23:58:42.032Z
+date: 2024-11-24T23:58:52.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-18T18:49:14.847Z

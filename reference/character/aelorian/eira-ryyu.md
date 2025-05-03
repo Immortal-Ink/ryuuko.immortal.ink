@@ -2,7 +2,7 @@
 title: Eira Ryyu
 description: Director of the Ministry of Heritage
 published: true
-date: 2023-10-26T18:09:06.830Z
+date: 2023-10-26T18:09:08.961Z
 tags: ministry of heritage, aelorian
 editor: markdown
 dateCreated: 2023-09-20T02:59:39.966Z

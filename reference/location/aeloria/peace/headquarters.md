@@ -2,7 +2,7 @@
 title: Monolith (Peace Headquarters)
 description: 
 published: true
-date: 2023-10-26T19:10:45.042Z
+date: 2023-10-26T19:10:47.080Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T19:10:45.042Z

@@ -2,7 +2,7 @@
 title: Ministry of Justice
 description: 
 published: true
-date: 2023-12-11T01:42:11.102Z
+date: 2023-12-11T01:42:13.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T23:22:41.183Z

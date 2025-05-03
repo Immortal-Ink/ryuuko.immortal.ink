@@ -2,7 +2,7 @@
 title: Wings, Arms and Hands
 description: 
 published: true
-date: 2023-11-24T06:18:10.816Z
+date: 2023-11-24T06:18:12.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:38:37.399Z

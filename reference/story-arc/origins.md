@@ -2,7 +2,7 @@
 title: Origins Storyboarding
 description: 
 published: true
-date: 2024-06-24T18:32:05.037Z
+date: 2024-06-24T18:32:10.752Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T14:27:55.878Z

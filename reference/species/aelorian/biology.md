@@ -2,7 +2,7 @@
 title: Aelorian Species / Biological Design
 description: 
 published: true
-date: 2024-06-18T20:23:03.860Z
+date: 2024-06-18T20:23:09.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-15T04:45:39.684Z

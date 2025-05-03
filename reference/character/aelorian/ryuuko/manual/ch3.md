@@ -2,7 +2,7 @@
 title: Head
 description: 
 published: true
-date: 2023-11-24T06:03:57.046Z
+date: 2023-11-24T06:03:59.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T04:37:02.163Z

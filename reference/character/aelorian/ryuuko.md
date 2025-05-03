@@ -2,7 +2,7 @@
 title: Ryuuko 7
 description: The main character
 published: true
-date: 2023-11-24T05:28:54.873Z
+date: 2023-11-24T05:28:57.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:54:30.028Z

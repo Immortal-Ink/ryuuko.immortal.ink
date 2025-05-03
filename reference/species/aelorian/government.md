@@ -2,7 +2,7 @@
 title: Aelorian Government
 description: 10 Ministries to rule them all
 published: true
-date: 2023-10-29T23:31:39.021Z
+date: 2023-10-29T23:31:41.348Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-25T16:38:04.862Z

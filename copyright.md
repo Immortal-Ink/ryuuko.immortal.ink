@@ -2,7 +2,7 @@
 title: Copyright Notices
 description: 
 published: true
-date: 2024-06-11T16:57:55.410Z
+date: 2024-06-11T16:58:00.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-05T09:59:56.617Z

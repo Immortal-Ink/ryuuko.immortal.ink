@@ -2,7 +2,7 @@
 title: Wrenna Kaze
 description: Ryuuko is her life work
 published: true
-date: 2024-06-10T03:00:15.042Z
+date: 2024-06-10T03:00:19.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-20T02:57:18.891Z
